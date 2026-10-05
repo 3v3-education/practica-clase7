@@ -1,0 +1,6 @@
+67654|Juan.Perez|Madrid, España|Aprendiendo Python.|150|True|['¡Muy interesante!']|4.5
+67654|Juan.Perez|Madrid, España|Aprendiendo Python.|150|True|['¡Muy interesante!']|4.5
+67654|Juan.Perez|Madrid, España|Aprendiendo Java.|150|True|['¡Muy interesante!']|4.5
+67654|Juan.Perez|Madrid, España|Aprendiendo Python.|150|True|['¡Muy interesante!']|4.5
+67654|Juan.Perez|Madrid, España|Aprendiendo Python.|150|True|['¡Muy interesante!']|4.5
+67654|Juan.Perez|Madrid, España|Aprendiendo Python.|150|True|['¡Muy interesante!']|4.5
