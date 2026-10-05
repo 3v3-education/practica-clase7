@@ -8,6 +8,8 @@ estado = False
 comentarios = ["¡Gran publicación!", "Muy interesante.", "Gracias por compartir."]
 puntuacion = 4.5
 id= 33323
+url_imagen = "https://www.python.org/static/community_logos/python-logo.png"
+
 publicaciones = [
     {
         "id": id,
@@ -17,7 +19,8 @@ publicaciones = [
         "cantidad_likes": cantidad_likes,
         "estado": estado,
         "comentarios": comentarios,
-        "puntuacion": puntuacion
+        "puntuacion": puntuacion,
+        "url_imagen": url_imagen
     },
     {
         "id": 43321,
@@ -27,7 +30,8 @@ publicaciones = [
         "cantidad_likes": 200,
         "estado": False,
         "comentarios": ["¡Muy útil!", "Gracias por la información."],
-        "puntuacion": 4.8
+        "puntuacion": 4.8,
+        "url_imagen": url_imagen
     },
     {
         "id": 21677,
@@ -37,6 +41,7 @@ publicaciones = [
         "cantidad_likes": 850,
         "estado": True,
         "comentarios": ["¡Exelente clase!", "Gracias!!!"],
-        "puntuacion": 5
+        "puntuacion": 5,
+        "url_imagen": url_imagen
     }
 ]
